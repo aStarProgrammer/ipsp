@@ -1,7 +1,7 @@
 package main
 
 import (
-	"IPSC/Utils"
+	"ipsp/Utils"
 	"flag"
 	"fmt"
 	"os"

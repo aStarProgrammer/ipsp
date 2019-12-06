@@ -2,8 +2,8 @@
 package main
 
 import (
-	"IPSP/Configuration"
-	"IPSP/Utils"
+	"ipsp/Configuration"
+	"ipsp/Utils"
 	"bytes"
 	"errors"
 	"fmt"
